@@ -3,8 +3,6 @@ full stack web and  app developer
 
 ![Alt Text](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nishant-jangid) 
 
