@@ -1,7 +1,7 @@
 # 💫 About Me:
 full stack web and  app developer
 
-![Alt Text](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
+![Alt Text](https://gifyu.com/image/SljRt)
 
 ## 🌐 Socials:¸
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1010nishant) 
